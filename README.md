@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 55px src="https://i.imgur.com/KbE2Nce.jpeg" width="200" height="200"/>
+  <img border-radius: 55px src="Vidhya.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Vidhya" src="https://img.shields.io/badge/Vidhya-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Albinmanoj76/Vidhya?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> to make it public
+Project created by <a href="https://youtube.com/c/ICHUTECH">Albinmanoj76</a> to make it public
     <br>
        | © |
         Reserved |
@@ -20,7 +20,7 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> 
 
   <p align="center">
   <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/https://github.com/Hisham-Muhammed/Sophia?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/https://github.com/Albinmanoj76/Vidhya?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
 <a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/Sophia.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Albinmanoj76/Vidhya.git)
      </div>
 <br>
 <br >
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia
-$ cd sophia
+$ git clone https://github.com/Albinmanoj76/Vidhya
+$ cd Vidhya
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia
-$ cd sophia
+$ git clone https://github.com/Albinmanoj76/Vidhya
+$ cd Vidhya
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/Hisham-Muhammed/Sophia).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
+  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/Albinmanoj76/Vidhya).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://i.imgur.com/KbE2Nce.jpeg)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
