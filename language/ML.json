@@ -43,7 +43,7 @@
             "UNMUTE_DESC": "aarkum message ayaan, admin only allathe akkan.",
             "UNMUTED": "```admin only allathe akeett und!```",
             "INVITE_DESC": "groupilikk kshennikaan ulla linkin aayitt.",
-            "INVITE": "```kshana kath..😉: ```"
+            "INVITE": "```kari va mona.....😉: ```"
         },
         "locate": {
             "L_DESC": "location ayach therum.",
@@ -195,7 +195,7 @@
             "YT_DESC": "YouTubeill search cheyyum.",
             "NEED_WORDS": "```search cheyende words type cheyyu!```",
             "GETTING_VIDEOS": "```video link kond verunnu...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
+            "NOT_FOUND": "*kittiyilla ☹️*",
             "SEARCHING": "*🔎 searching...*",
             "WIKI_DESC": "Wikipedia yill search cheyyaan.",
             "IMG_DESC": "googlil chithram search cheyaan.",
@@ -212,18 +212,18 @@
         },
         "tagall": {
             "TAGALL_DESC": "groupile ellareyum tag cheyyum.",
-            "ADMİN": "*njan admin allalo..😕!*"
+            "ADMİN": "*njan admin allalo..😪😕!*"
         },
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
-            "UPDATE": "*Nan already update aan muthe 😘😝!*",
-            "NEW_UPDATE": "*sophia Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6 * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "UPDATE": "*Nan set aan muthe 😘😝!*",
+            "NEW_UPDATE": "*Vidhyamwol Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link:https://chat.whatsapp.com/FWFWXyYPrhN0uR1jnCRtVs* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
-            "UPDATING": "```Update aakikondirikunnu manushyaa🤩😍😘..🐥```",
+            "UPDATING": "```Update aakikondirikunnu waiting🤩😍😘..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
-            "UPDATED": "*Update aaki monuse 😁🤠✅*",
-            "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Sophoa Restarting..*"
+            "UPDATED": "*Update  aayi muthe😁🤠✅*",
+            "UPDATED_LOCAL": "*✅ set Update cheythu!*",
+            "AFTER_UPDATE": "*😎 Vidhyamwol Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -455,7 +455,7 @@
         },
         "webss": {
             "SS_DESC": "thanna linkil nin screenshot edth ayach therum.",
-            "LİNK": " link thaa mister!"
+            "LİNK": " link thaa mona!"
         },
         "voicy": {
             "NEED_REPLY": "```oru messagin reply theru!```",
