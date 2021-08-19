@@ -44,7 +44,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Vidhya Bot created by *Albin manoj*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'VidhyaMwol Bot created by Albin manoj githup link-https://github.com/Albin-manoj/VidhyaMwol' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n--------------------', MessageType.text);
