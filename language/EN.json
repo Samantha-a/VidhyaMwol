@@ -216,13 +216,13 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Nan ippol thanne update aanallo machaa..!*",
+            "UPDATE": "*Nan already update aanallo muthe....😜!*",
             "NEW_UPDATE": "* VIDHYAMWOL k update cheyyan und muthe 😊*\n\n please ask support group before updating. Otherwise chance to get error group link https://chat.whatsapp.com/FWFWXyYPrhN0uR1jnCRtVs\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Update aakunnu waiting aliyaa  ..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "* Set aaki.. muthe😌 🤠✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated!*",
+            "UPDATED_LOCAL": "*✅ Vidhyamwol Successfully Updated!*",
             "AFTER_UPDATE": "*😎 VIDHYAMWOL Restarting*"
         },
         "weather": {
