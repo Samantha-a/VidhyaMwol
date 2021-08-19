@@ -1,6 +1,6 @@
 {
-    "name": "Sophia bgm bot",
-    "description": "Sophia project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "Vidhyamwol bgm bot",
+    "description": "Vidhyamwol project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.imgur.com/PwDQti2.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnalplk/pikachu",
@@ -15,10 +15,10 @@
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
             "required": false,
-            "value": "919207866848,0"
+            "value": "919946134325"
         },
         "LANGUAGE": {
-            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
+            "description": "Bot language.  English => en, Malayalam => ml, Hindi => HI
             "required": true,
             "value": "EN"
         },
@@ -65,7 +65,7 @@
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
             "required": true,
-            "value": "^[.!;]"
+            "value": "^[.!?₹#*;]"
         },
         "FULL_EVA": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -137,7 +137,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "I am ALIVE bro 🙂 coded by hisham-Muhammed"
+            "value": "I am ALIVE bro 😜 coded by Albin"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
