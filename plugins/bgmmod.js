@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 afnanplk.
-re edited by albin  and plk
+re edited by saidali and plk
 */
 
 const Asena = require('../events');
@@ -17,15 +17,15 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
   if (config.LANG == 'EN') {
     
     plk_desc = 'change reply message BGM mode'
-    BGM_ONE = '     '
-    BGM_TWO = '     '
+    BGM_ONE = 'BGM type changed to 1st mode'
+    BGM_TWO = 'BGM type changed to 2st mode'
     }
 
     if (config.LANG == 'ML') {
       
-      plk_desc = ' bgm  '
-      BGM_ONE = '     '
-      BGM_TWO = '     '
+      plk_desc = 'മറുപടി bgm മോഡ് മാറ്റാൻ'
+      BGM_ONE = 'BGM type changed to 1st mode'
+      BGM_TWO = 'BGM type changed to 2st mode'
     }
 
  Asena.addCommand({pattern: 'bgm ?(.*)', fromMe: true, desc: plk_desc, usage: '.bgm one / two' }, (async (message, match) => {
