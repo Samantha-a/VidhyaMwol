@@ -80,7 +80,7 @@ if (Config.WORKTYPE == 'private') {
 }));
 
 /*slf*/
-Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'plist ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
@@ -211,7 +211,7 @@ else if (Config.WORKTYPE == 'public') {
 }));
 
 /*slf*/
-Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'plist ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
