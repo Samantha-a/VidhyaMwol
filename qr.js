@@ -44,7 +44,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Vidhyamwol... Please Wait.')}`);
         }
         else {
             await conn.sendMessage(conn.user.jid,st, MessageType.text)
-            await conn.sendMessage(conn.user.jid,'*ഈ cod ആർക്കും share ചെയ്ണ്ടട്ട 😸😸£Information From Hisham Muhammed!*', MessageType.text)
+            await conn.sendMessage(conn.user.jid,'*ഈ cod ആർക്കും share ചെയ്ണ്ടട്ട 😸😸£Information From Albin manoj!*', MessageType.text)
             console.log(
                 chalk.blue.bold('If you are installing locale, you can start the bot with node bot.js')
             );
