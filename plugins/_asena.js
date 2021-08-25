@@ -146,7 +146,7 @@ Asena.addCommand({pattern: 'plist ?(.*)', fromMe: true, dontAddCommandList: true
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({pattern: '. ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'c ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
